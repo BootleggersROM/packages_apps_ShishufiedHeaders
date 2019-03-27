@@ -20,18 +20,23 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="test_zerotwoeyes" />
-    <random_header image="sp_sub2pewdiepie" />
-    <random_header image="sp_sub2pewdiepie_accent" />
-    <random_header image="sp_sub2pewdiepie_gradient" />
-    <random_header image="spd_sonicocnobg01" />
-    <random_header image="spd_sonicocnobg02" />
-    <random_header image="spd_sonicocnobg03" />
-    <random_header image="spd_sonicocnobg04" />
-    <random_header image="spd_sonicocnobg05" />
-    <random_header image="spd_sonicocnobg06" />
-    <random_header image="spd_sonicocnobg07" />
-    <random_header image="spd_sonicocnobg08" />
-    <random_header image="spd_sonicocnobg09" />
-    <random_header image="spd_sonicocnobg10" />
+    <random_header image="cl_nicehp_01" />
+    <random_header image="cl_nicehp_02" />
+    <random_header image="cl_nicehp_03" />
+    <random_header image="cl_nicehp_04" />
+    <random_header image="cl_nicehp_05" />
+    <random_header image="cl_nicehp_06" />
+    <random_header image="cl_nicehp_07" />
+    <random_header image="cl_nicehp_08" />
+    <random_header image="cl_nicehp_09" />
+    <random_header image="cl_nicehp_10" />
+    <random_header image="cl_nicehp_11" />
+    <random_header image="cl_nicehp_12" />
+    <random_header image="cl_nicehp_13" />
+    <random_header image="cl_nicehp_14" />
+    <random_header image="cl_nicehp_15" />
+    <random_header image="cl_nicehp_16" />
+    <random_header image="cl_nicehp_17" />
+    <random_header image="cl_nicehp_18" />
+    <random_header image="cl_nicehp_19" />
 </daylight_headers>
